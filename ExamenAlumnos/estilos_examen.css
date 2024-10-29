@@ -1,0 +1,41 @@
+body {
+background-color: #6c6c6c;
+color: #ffffff;
+padding: 50px;
+}
+.Enlaces {
+	background-color: #d37511;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	color: #ffffff;
+	padding: 20px;
+}
+#imagen_cabecera {
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+.creepster-regular {
+  font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+.listas {
+	background-color: #3d3d3d;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.footer {
+	background-color: #3d3d3d;
+}
+#facebook {
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
